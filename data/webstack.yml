@@ -55,13 +55,33 @@
 
     - term: AI 办公
       links:
+        - title: Beautiful.ai
+          logo: beautiful.png
+          url: https://www.beautiful.ai/
+          description: 用Beautiful.ai制作漂亮的演示文稿只需几分钟。Beautiful.ai是最适合团队使用的演示软件。保持品牌一致，升级您的演示设计，并与世界各地的人进行协作
+        - title: Tome
+          logo: tome.png
+          url: https://beta.tome.app/
+          description: 使用图文进行叙事，生成出PPT使用Tome的AI驱动的叙事格式解锁您的最佳作品
+        - title: Gamma App
+          logo: gamma.png
+          url: https://gamma.app/
+          description: 快速制作ppt，让内容回归内容。A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work.
+
+    - term: AI 编程
+      links:
+        - title: Beautiful.ai
+          logo: chatgpt.png
+          url: https://ai.ruankao168.top/
+          description: 免费的ChatGPT
         - title: 免费的ChatGPT
           logo: chatgpt.png
           url: https://ai.ruankao168.top/
           description: 免费的ChatGPT
-
-    - term: AI 编程
-      links:
+        - title: 免费的ChatGPT
+          logo: chatgpt.png
+          url: https://ai.ruankao168.top/
+          description: 免费的ChatGPT
         - title: 免费的ChatGPT
           logo: chatgpt.png
           url: https://ai.ruankao168.top/
