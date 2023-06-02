@@ -32,18 +32,26 @@
 
     - term: AI 绘图
       links:
-        - title: midjourney
+        - title: Midjourney 官网
           logo: midjourney.png
           url: https://www.midjourney.com/
           description: 地表最强AI绘图工具
-        - title: sd
+        - title: Stable Diffusion官网
           logo: sd.png
-          url: https://stability.ai/
-          description: 强大的绘图AI，简称SD。
+          url: https://stablediffusionweb.com/
+          description: Stable Diffusion图像生成模型创建图像
         - title: DALL·E2
           logo: dell2.png
           url: https://labs.openai.com/
           description: DALL·E2是一个人工智能系统，可以从自然语言的描述中创建逼真的图像和艺术。
+        - title: Bing Image Creator
+          logo: bing.png
+          url: https://cn.bing.com/create
+          description: 微软出的基于Dalle的AI绘画工具，Edge的侧边栏可直接使用
+        - title: Adobel Firefly
+          logo: firefly.png
+          url: https://firefly.adobe.com/
+          description: Adobe旗下的创意生成模型，数字创意行业新宠
 
     - term: AI 办公
       links:
