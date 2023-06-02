@@ -41,7 +41,10 @@
           logo: poe.png
           url: https://poe.com
           description: 集成各种AI工具的集合
-
+        - title: Claude
+          logo: claude.png
+          url: https://www.anthropic.com/
+          description: 新一代AI助手，对标ChatGPT
     - term: AI 写作
       links:
         - title: 免费的ChatGPT
@@ -75,7 +78,10 @@
           logo: firefly.png
           url: https://firefly.adobe.com/
           description: Adobe旗下的创意生成模型，数字创意行业新宠
-
+        - title: 文心一格 – AI艺术和创意辅助平台
+          logo: firefly.png
+          url: https://yige.baidu.com
+          description: 百度出品的AI绘画网站文心·一格，AI艺术和创意辅助平台，依托飞桨、文心大模型的技术创新推出的“AI作画”产品，可轻松驾驭多种风格，人人皆可“一语成画”
     - term: AI 办公
       links:
         - title: Beautiful.ai
@@ -93,19 +99,19 @@
 
     - term: AI 编程
       links:
-        - title: Beautiful.ai
-          logo: chatgpt.png
+        - title: cursor.so
+          logo: cursor.png
           url: https://ai.ruankao168.top/
-          description: 免费的ChatGPT
-        - title: 免费的ChatGPT
-          logo: chatgpt.png
-          url: https://ai.ruankao168.top/
-          description: 免费的ChatGPT
-        - title: 免费的ChatGPT
-          logo: chatgpt.png
-          url: https://ai.ruankao168.top/
-          description: 免费的ChatGPT
-        - title: 免费的ChatGPT
-          logo: chatgpt.png
-          url: https://ai.ruankao168.top/
-          description: 免费的ChatGPT
+          description: 使用Cursor可以毫不费力地重构、理解和编写代码。
+        - title: GitHub Copilot X
+          logo: github.png
+          url: https://github.com/features/preview/copilot-x
+          description: 可以使用GPT4的AI代码辅助编程开发工具。
+        - title: Github Copilot
+          logo: github.png
+          url: https://github.com/features/copilot/
+          description: GitHub 和 OpenAI 合作开发的一个 AI 工具，可以提供实时代码建议和自动代码补全。它可以帮助开发人员快速编写代码，并提高编码效率。
+        - title: 亚马逊 CodeWhisperer
+          logo: aws.png
+          url: https://aws.amazon.com/cn/codewhisperer/
+          description: CodeWhisperer 是一种亚马逊推出的AI 编程服务，个人用户免费使用
