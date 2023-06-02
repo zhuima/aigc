@@ -45,6 +45,22 @@
           logo: claude.png
           url: https://www.anthropic.com/
           description: 新一代AI助手，对标ChatGPT
+
+        - title: 讯飞星火
+          description: 科大讯飞星火认知智能大模型
+          url: https://xinghuo.xfyun.cn
+          logo: xunfei.png
+
+        - title: Auto-GPT
+          description: 可以自我改进的人工智能
+          url: https://github.com/torantulino/auto-gpt
+          logo: autogpt.png
+
+        - title: 通义千问
+          description: 阿里云推出大语言模型聊天机器人
+          url: https://tongyi.aliyun.com
+          logo: tongyi.png
+
     - term: AI 写作
       links:
         - title: 免费的ChatGPT
