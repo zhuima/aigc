@@ -19,6 +19,29 @@
 - taxonomy: AI 工具
   icon: fas fa-robot fa-lg icon-fw icon-lg mr-2
   list:
+    - term: AI 聊天
+      links:
+        - title: 免费的ChatGPT
+          logo: chatgpt.png
+          url: https://chat.openai.com
+          description: 地表最强AI聊天
+        - title: Board
+          logo: board.png
+          url: https://bard.google.com
+          description: Google推出的AI聊天机器人
+        - title: 文心一言
+          logo: yiyan.png
+          url: https://yiyan.baidu.com
+          description: 百度推出的基于文心大模型的AI聊天机器人
+        - title: Bing必应
+          logo: bingai.png
+          url: https://www.bing.com
+          description: 微软推出的AI聊天机器人
+        - title: Poe
+          logo: poe.png
+          url: https://poe.com
+          description: 集成各种AI工具的集合
+
     - term: AI 写作
       links:
         - title: 免费的ChatGPT
