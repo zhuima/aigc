@@ -90,7 +90,7 @@
         - title: PromptoMania
           description: MJ和SD提示词生成器
           url: https://promptomania.com/
-          logo: promptmania.png
+          logo: promptomania.png
 
         - title: ClickPrompt
           description: 一款专为 Prompt 编写者设计的工具
@@ -105,17 +105,17 @@
         - title: Visual Prompt Builder
           description: 涨姿势系列！设计/绘画风格参考
           url: https://tools.saxifrage.xyz/prompt
-          logo:
+          logo: visualprompt.png
 
         - title: PublicPrompts
           description: AI绘画模型+风格参考
           url: https://publicprompts.art/
-          logo: publicprompt.png
+          logo: publicprompts.png
 
         - title: CLIP Interrogator
           description: 反向学习！从图片反推AI关键词
           url: https://replicate.com/pharmapsychotic/clip-interrogator
-          logo: clipprpmpt.png
+          logo: clipprompt.png
 
         - title: Ordinary Prompts
           description: 有趣ChatGPT提示词
