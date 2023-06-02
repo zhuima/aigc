@@ -115,7 +115,8 @@
           logo: aws.png
           url: https://aws.amazon.com/cn/codewhisperer/
           description: CodeWhisperer 是一种亚马逊推出的AI 编程服务，个人用户免费使用
-
+    - term: AI 编程
+      links:
         - title: Runway
           logo: runway.png
           url: https://runwayml.com
