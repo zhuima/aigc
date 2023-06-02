@@ -79,7 +79,7 @@
           url: https://firefly.adobe.com/
           description: Adobe旗下的创意生成模型，数字创意行业新宠
         - title: 文心一格 – AI艺术和创意辅助平台
-          logo: firefly.png
+          logo: yige.png
           url: https://yige.baidu.com
           description: 百度出品的AI绘画网站文心·一格，AI艺术和创意辅助平台，依托飞桨、文心大模型的技术创新推出的“AI作画”产品，可轻松驾驭多种风格，人人皆可“一语成画”
     - term: AI 办公
