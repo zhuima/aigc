@@ -60,6 +60,67 @@
           description: 阿里云推出大语言模型聊天机器人
           url: https://tongyi.aliyun.com
           logo: tongyi.png
+    - term: AI 提示词
+      links:
+        - title: PromptHero
+          description: 推荐！最受欢迎的AI提示词网站
+          url: https://prompthero.com/
+          logo: prompthero.png
+
+        - title: Prompt Hunt
+          description: 按主题分类的SD提示词
+          url: https://www.prompthunt.com/explore
+          logo: prompthunt.png
+
+        - title: PromptBase
+          description: AI提示词交易网站
+          url: https://promptbase.com/
+          logo: promptbase.png
+
+        - title: MJ Prompt Tool
+          description: MJ提示词创造助手
+          url: https://prompt.noonshot.com/
+          logo: noonshot.png
+
+        - title: Learning Prompt
+          description: ChatGPT提示词中文指南
+          url: https://learningprompt.wiki/
+          logo: learningprompt.png
+
+        - title: PromptoMania
+          description: MJ和SD提示词生成器
+          url: https://promptomania.com/
+          logo: promptmania.png
+
+        - title: ClickPrompt
+          description: 一款专为 Prompt 编写者设计的工具
+          url: https://www.clickprompt.org/zh-CN/
+          logo: clickprompt.png
+
+        - title: LIB.KALOS.ART
+          description: 艺术风格流派参考库
+          url: https://lib.kalos.art/
+          logo: libprompt.png
+
+        - title: Visual Prompt Builder
+          description: 涨姿势系列！设计/绘画风格参考
+          url: https://tools.saxifrage.xyz/prompt
+          logo:
+
+        - title: PublicPrompts
+          description: AI绘画模型+风格参考
+          url: https://publicprompts.art/
+          logo: publicprompt.png
+
+        - title: CLIP Interrogator
+          description: 反向学习！从图片反推AI关键词
+          url: https://replicate.com/pharmapsychotic/clip-interrogator
+          logo: clipprpmpt.png
+
+        - title: Ordinary Prompts
+          description: 有趣ChatGPT提示词
+          url: https://www.ordinarypeopleprompts.com/
+          logo: ordinaryprompt.png
 
     - term: AI 写作
       links:
