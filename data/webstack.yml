@@ -1,0 +1,47 @@
+---
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links:
+    - title: 关注我们
+      logo: ""
+      url: https://ai.plumsai.com/
+      qrcode: assets/images/logos/getqrcode.png
+      description: AI帮个忙
+    - title: 免费的ChatGPT
+      logo: chatgpt.png
+      url: https://chat.plumsai.com/#/
+      description: 免费的ChatGPT
+    - title: AI帮个忙
+      logo: aibang.png
+      url: https://ai.plumsai.com/
+      description: AI帮个忙
+
+- taxonomy: AI 工具
+  icon: fas fa-robot fa-lg icon-fw icon-lg mr-2
+  list:
+    - term: AI 写作
+      links:
+        - title: 免费的ChatGPT
+          logo: chatgpt.png
+          url: https://chat.plumsai.com/#/
+          description: 免费的ChatGPT
+    - term: AI 绘图
+      links:
+        - title: 免费的ChatGPT
+          logo: chatgpt.png
+          url: https://ai.ruankao168.top/
+          description: 免费的ChatGPT
+
+    - term: AI 办公
+      links:
+        - title: 免费的ChatGPT
+          logo: chatgpt.png
+          url: https://ai.ruankao168.top/
+          description: 免费的ChatGPT
+
+    - term: AI 编程
+      links:
+        - title: 免费的ChatGPT
+          logo: chatgpt.png
+          url: https://ai.ruankao168.top/
+          description: 免费的ChatGPT
