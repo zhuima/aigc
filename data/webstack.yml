@@ -115,3 +115,17 @@
           logo: aws.png
           url: https://aws.amazon.com/cn/codewhisperer/
           description: CodeWhisperer 是一种亚马逊推出的AI 编程服务，个人用户免费使用
+    - term: AI 视频
+      links:
+        - title: Runway
+          logo: runway.png
+          url: https://runwayml.com
+          description: 基于OpenAI开发的视频生成程序Explore more than 30+ AI powered creative tools to ideate, generate and edit content like never before.
+        - title: D-ID
+          logo: did.png
+          url: https://www.d-id.com/
+          description: 人工智能视频创作平台
+        - title: Fliki
+          logo: fliki.png
+          url: https://fliki.ai/
+          description: 最佳文本转语音和文本转视频软件...
