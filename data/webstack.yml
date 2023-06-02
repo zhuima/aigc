@@ -97,6 +97,26 @@
           url: https://gamma.app/
           description: 快速制作ppt，让内容回归内容。A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work.
 
+        - title: ChatDOC
+          description: 基于 ChatGPT 的文件阅读助手
+          url: https://chatdoc.com
+          logo: chatdoc.png
+
+        - title: ChatPDF
+          description: 帮你快速解读大量PDF文档
+          url: https://www.chatpdf.com
+          logo: chatpdf.png
+
+        - title: Excelformulabot
+          description: 利用AI 帮你将文本描述指令转换为 Excel 公式
+          url: https://excelformulabot.com
+          logo: execlbot.png
+
+        - title: ChatExcel
+          description: 首款用于 Excel 的自动 AI 工具。
+          url: https://chatexcel.com
+          logo: chatexecl.png
+
     - term: AI 编程
       links:
         - title: cursor.so
