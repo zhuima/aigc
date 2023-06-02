@@ -134,51 +134,51 @@
         - title: Stable Diffusion
           url: http://beta.dreamstudio.ai
           description: StabilityAI推出的文本到图像生成AI模型
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/1679564761Stable%20Diffusion.png
+          logo: sd.png
 
         - title: GPT-4
           url: https://openai.com/product/gpt-4
           description: OpenAI旗下最新的GPT-4模型
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/1679564761GPT-4.png
+          logo: chatgpt.png
 
         - title: DALL·E 2
           url: https://openai.com/product/dall-e-2
           description: OpenAI旗下DALL·E 2模型
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/1679564761DALL%C2%B7E%202.png
+          logo: dell2.png
 
         - title: Codex
           url: https://openai.com/blog/openai-codex
           description: OpenAI旗下AI代码生成训练模型
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/1679564761Codex.png
+          logo: codex.png
 
         - title: BLOOM
           url: https://huggingface.co/docs/transformers/model_doc/bloom
           description: HuggingFace推出的大型语言模型（LLM）
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/1679564762BLOOM.png
+          logo: bloom.png
 
         - title: Imagen
           url: https://imagen.research.google
           description: GoogleAI文字到图像生成模型
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/1679564762Imagen.png
+          logo: imagen.png
 
         - title: LLaMA
           url: https://github.com/facebookresearch/llama
           description: Meta（Facebook）推出的AI大语言模型
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/1679564762LLaMA.png
+          logo: llama.png
 
         - title: Lobe
           url: https://www.lobe.ai
           description: 简单免费的机器学习模型训练工具
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/167956476
+          logo: lobe.png
         - title: Scale AI
           url: https://scale.com
           description: AI机器学习标注训练平台
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/167956476
+          logo: scaleai.png
         - title: Replicate
           url: https://replicate.com
           description: 在线运行开源机器学习模型
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/167956476
+          logo: replicate.png
         - title: Evidently AI
           url: https://www.evidentlyai.com
           description: 开源的机器学习模型监测和测试工具
-          logo: https://img.amz123.com/upload/diy_page/aibeiyong/202303/167956476
+          logo: evidently.png
