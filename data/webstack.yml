@@ -25,12 +25,25 @@
           logo: chatgpt.png
           url: https://chat.plumsai.com/#/
           description: 免费的ChatGPT
+        - title: Notion AI
+          logo: notion.png
+          url: https://www.notion.so/product/ai
+          description: Notion AI是一款强大的AI写作助手，可以帮助用户快速撰写、编辑、总结文本内容，并提供集思广益的功能。
+
     - term: AI 绘图
       links:
-        - title: 免费的ChatGPT
-          logo: chatgpt.png
-          url: https://ai.ruankao168.top/
-          description: 免费的ChatGPT
+        - title: midjourney
+          logo: midjourney.png
+          url: https://www.midjourney.com/
+          description: 地表最强AI绘图工具
+        - title: sd
+          logo: sd.png
+          url: https://stability.ai/
+          description: 强大的绘图AI，简称SD。
+        - title: DALL·E2
+          logo: dell2.png
+          url: https://labs.openai.com/
+          description: DALL·E2是一个人工智能系统，可以从自然语言的描述中创建逼真的图像和艺术。
 
     - term: AI 办公
       links:
