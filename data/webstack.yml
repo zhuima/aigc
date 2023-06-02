@@ -6,15 +6,15 @@
       logo: ""
       url: https://ai.plumsai.com/
       qrcode: assets/images/logos/getqrcode.png
-      description: AI帮个忙
-    - title: 免费的ChatGPT
+      description: 专注AI领域的尖端团队
+    - title: AI助手
       logo: chatgpt.png
       url: https://chat.plumsai.com/#/
       description: 免费的ChatGPT
     - title: AI帮个忙
       logo: aibang.png
       url: https://ai.plumsai.com/
-      description: AI帮个忙
+      description: AI说官网
 
 - taxonomy: AI 工具
   icon: fas fa-robot fa-lg icon-fw icon-lg mr-2
