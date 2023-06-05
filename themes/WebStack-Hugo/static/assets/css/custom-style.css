@@ -28,7 +28,7 @@ html {
 /*顶部导航栏字体+图标颜色*/
 .big-header-banner .page-header {
   color: #ffffff;
-  background: #4654df;
+  background: linear-gradient(#5063cf);
   box-shadow: none;
   transition: color 0.3s, background-color 0.3s;
 }
