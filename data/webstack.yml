@@ -280,3 +280,36 @@
           url: https://www.evidentlyai.com
           description: 开源的机器学习模型监测和测试工具
           logo: evidently.png
+        - title: DeepSpeed
+          url: https://github.com/microsoft/DeepSpeed
+          description: 微软开源
+        - title: ChatGLM-6B
+          url: https://github.com/THUDM/ChatGLM-6B
+          description: 清华开源
+        - title: GLM-130B
+          url: https://github.com/THUDM/GLM-130B
+          description: 清华开源
+        - title: stableLM
+          url: https://github.com/stability-AI/stableLM/
+          description: Stable 开源
+        - title: YaLM-100B
+          url: https://github.com/yandex/YaLM-100B
+          description: yandex开源
+        - title: bloom-megatron-deepspeed
+          url: https://huggingface.co/blog/bloom-megatron-deepspeed
+          description: BLOOM 法国的
+        - title: LMFlow
+          url: https://github.com/OptimalScale/LMFlow
+          description: 香港科技大学 开源
+        - title: llama
+          url: https://github.com/facebookresearch/llama
+          description: facebook 开源
+        - title: stanford_alpaca
+          url: https://github.com/tatsu-lab/stanford_alpaca
+          description: 斯坦福大学
+        - title: FastChat
+          url: https://github.com/lm-sys/FastChat
+          description: 常青藤联盟 小羊驼
+        - title: vicuna-13b-delta-v0
+          url: https://huggingface.co/lmsys/vicuna-13b-delta-v0/tree/main
+          description: 小羊驼
